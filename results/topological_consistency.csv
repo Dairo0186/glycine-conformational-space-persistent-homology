@@ -1,0 +1,16 @@
+descriptor,25x25,36x36,unit
+number_of_configurations,625,1296,count
+angular_separation,"10-15",10,degree
+maximum_coverage_radius,0.104597,0.083525,angstrom
+H0_connectivity_scale,0.179681,0.119879,angstrom
+H1_dominant_persistence_1,1.044615,1.083728,angstrom
+H1_dominant_persistence_2,0.975305,1.031345,angstrom
+H1_largest_secondary_persistence,0.078515,0.052424,angstrom
+H2_dominant_persistence,0.967064,1.045180,angstrom
+H2_largest_secondary_persistence,0.082822,0.048497,angstrom
+H1_separation_ratio,12.42,19.67,dimensionless
+H2_separation_ratio,11.68,21.55,dimensionless
+stable_betti_window_start,0.250913,0.167302,angstrom
+stable_betti_window_end,1.134388,1.137197,angstrom
+stable_betti_window_length,0.883475,0.969895,angstrom
+euler_characteristic,0,0,dimensionless

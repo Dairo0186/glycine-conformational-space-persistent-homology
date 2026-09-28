@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it using the metadata below."
+title: "Glycine conformational space: persistent-homology analysis"
+type: software
+authors:
+  - family-names: "Hernández"
+    given-names: "Juan"
+  - family-names: "Hernández Páez"
+    given-names: "Dairo José"
+  - family-names: "Cadavid"
+    given-names: "Carlos Alberto"
+repository-code: "https://github.com/Dairo0186/glycine-conformational-space-persistent-homology"
+license: MIT
+version: 0.1.0
+date-released: 2026-09-28
+keywords:
+  - conformational space
+  - glycine
+  - persistent homology
+  - RMSD
+  - toroidal topology
+  - topological data analysis
